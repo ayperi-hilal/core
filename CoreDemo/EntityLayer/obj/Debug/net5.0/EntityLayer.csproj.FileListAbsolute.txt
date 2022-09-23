@@ -10,3 +10,15 @@ C:\Users\DOKÜMANTASYON\Desktop\CoreDemo\EntityLayer\obj\Debug\net5.0\EntityLaye
 C:\Users\DOKÜMANTASYON\Desktop\CoreDemo\EntityLayer\obj\Debug\net5.0\EntityLayer.dll
 C:\Users\DOKÜMANTASYON\Desktop\CoreDemo\EntityLayer\obj\Debug\net5.0\ref\EntityLayer.dll
 C:\Users\DOKÜMANTASYON\Desktop\CoreDemo\EntityLayer\obj\Debug\net5.0\EntityLayer.pdb
+C:\Users\DOKÜMANTASYON\Desktop\core\CoreDemo\EntityLayer\bin\Debug\net5.0\EntityLayer.deps.json
+C:\Users\DOKÜMANTASYON\Desktop\core\CoreDemo\EntityLayer\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\DOKÜMANTASYON\Desktop\core\CoreDemo\EntityLayer\bin\Debug\net5.0\ref\EntityLayer.dll
+C:\Users\DOKÜMANTASYON\Desktop\core\CoreDemo\EntityLayer\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\DOKÜMANTASYON\Desktop\core\CoreDemo\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\DOKÜMANTASYON\Desktop\core\CoreDemo\EntityLayer\obj\Debug\net5.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DOKÜMANTASYON\Desktop\core\CoreDemo\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\DOKÜMANTASYON\Desktop\core\CoreDemo\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfo.cs
+C:\Users\DOKÜMANTASYON\Desktop\core\CoreDemo\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\DOKÜMANTASYON\Desktop\core\CoreDemo\EntityLayer\obj\Debug\net5.0\EntityLayer.dll
+C:\Users\DOKÜMANTASYON\Desktop\core\CoreDemo\EntityLayer\obj\Debug\net5.0\ref\EntityLayer.dll
+C:\Users\DOKÜMANTASYON\Desktop\core\CoreDemo\EntityLayer\obj\Debug\net5.0\EntityLayer.pdb

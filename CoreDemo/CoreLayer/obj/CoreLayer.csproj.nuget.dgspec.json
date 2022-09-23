@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DOKÜMANTASYON\\Desktop\\CoreDemo\\CoreLayer\\CoreLayer.csproj": {}
+    "C:\\Users\\DOKÜMANTASYON\\Desktop\\core\\CoreDemo\\CoreLayer\\CoreLayer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DOKÜMANTASYON\\Desktop\\CoreDemo\\CoreLayer\\CoreLayer.csproj": {
+    "C:\\Users\\DOKÜMANTASYON\\Desktop\\core\\CoreDemo\\CoreLayer\\CoreLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DOKÜMANTASYON\\Desktop\\CoreDemo\\CoreLayer\\CoreLayer.csproj",
+        "projectUniqueName": "C:\\Users\\DOKÜMANTASYON\\Desktop\\core\\CoreDemo\\CoreLayer\\CoreLayer.csproj",
         "projectName": "CoreLayer",
-        "projectPath": "C:\\Users\\DOKÜMANTASYON\\Desktop\\CoreDemo\\CoreLayer\\CoreLayer.csproj",
+        "projectPath": "C:\\Users\\DOKÜMANTASYON\\Desktop\\core\\CoreDemo\\CoreLayer\\CoreLayer.csproj",
         "packagesPath": "C:\\Users\\DOKÜMANTASYON\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DOKÜMANTASYON\\Desktop\\CoreDemo\\CoreLayer\\obj\\",
+        "outputPath": "C:\\Users\\DOKÜMANTASYON\\Desktop\\core\\CoreDemo\\CoreLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DOKÜMANTASYON\\AppData\\Roaming\\NuGet\\NuGet.Config",
